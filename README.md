@@ -9,7 +9,7 @@ This work is being conducted by a [Griffith Univeristy](https://griffith.edu.au)
 
 **Paul Firth**  
 *Lead Developer*  
-Griffith University Industrial Placement Student at CSIRO Land & Water  
+Griffith University Industrial Placement Student at CSIRO Land & Water.  
 <paul.firth@griffithuni.edu.au>  
 
 **Nicholas Car**  
@@ -18,4 +18,4 @@ Senior Experimental Scientist
 CSIRO Land & Water  
 <nicholas.car@csiro.au>  
 
-Test
+
